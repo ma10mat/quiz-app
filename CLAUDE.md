@@ -43,3 +43,7 @@ npx serve .
 ## GitHubリポジトリ
 
 https://github.com/ma10mat/quiz-app.git
+
+## 公開URL（GitHub Pages）
+
+https://ma10mat.github.io/quiz-app/
